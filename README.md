@@ -19,7 +19,7 @@ Get your iconfonts from [iconfont](http://www.iconfont.cn) and then save in your
 ### 1.1 Download zip
 Select "Symbol" in your project page and then select "Download Code"
 
-<img src="doc/img/doc-1.png" alt="dowload icons" title="download icons from iconfont" />
+<img src="https://github.com/Lt0/vicon/blob/master/doc/img/doc-1.png" alt="dowload icons" title="download icons from iconfont" />
 
 <br>
 
@@ -82,4 +82,4 @@ Note:
 1. icon name could be found in demo_symbol.html which include in download.zip(file downloaded by step 1)
 2. you can open demo_symbol.html directly with web browser.
 
-<img src="doc/img/doc-2.png" alt="icon name" title="find icon name from demo_symbol.html" />
+<img src="https://github.com/Lt0/vicon/blob/master/doc/img/doc-2.png" alt="icon name" title="find icon name from demo_symbol.html" />
