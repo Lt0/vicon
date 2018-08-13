@@ -1,6 +1,17 @@
 {
   "name": "vicon",
-  "version": "1.0.3",
-  "_from": "vicon@1.0.2",
+  "version": "1.0.4",
+  "description": "An iconfont component for vue.",
+  "keywords": [
+    "vicon", 
+    "vue", 
+    "icon", 
+    "iconfont", 
+    "iconfont.cn", 
+    "font icon"
+  ],
+  "homepage": "https://github.com/Lt0/vicon",
+  "license": "MIT",
+  "_from": "vicon@1.0.3",
   "_resolved": "http://registry.npm.taobao.org/vicon/download/vicon-1.0.0.tgz"
 }
