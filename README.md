@@ -1,3 +1,5 @@
+[中文说明](https://github.com/Lt0/vicon/blob/master/README-zh.md)
+
 # vicon
 Vicon is an simple iconfont componenet for vue.
 
