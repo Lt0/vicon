@@ -2,7 +2,7 @@
 
 # vicon
 
-Vicon 是一个为 vue 架构开发的极其简单的 iconfont 组件, 基于 vicon, 可以在 vue 项目中简单地使用 iconfont 的图标.
+Vicon 是一个为 vue 架构开发的极其简单的 iconfont 组件, 以便通过简单的几步在整个 vue 项目中使用 iconfont 上的图标.
 
 <br>
 <br>
